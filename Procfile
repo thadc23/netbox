@@ -1,0 +1,1 @@
+web: cd netbox && gunicorn netbox.wsgi --workers 2

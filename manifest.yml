@@ -1,0 +1,9 @@
+---
+applications:
+  - name: netbox
+    routes:
+      - route: netbox.int-apps.pcfone.io
+      - route: pvd-ipam.int-apps.pcfone.io
+    services:
+      - postgres
+    command: null

@@ -20,3 +20,7 @@ Pillow==6.2.0
 psycopg2-binary==2.8.3
 py-gfm==0.1.4
 pycryptodome==3.8.2
+gunicorn==19.1.1
+WhiteNoise==1.0.4
+napalm
+napalm-dellos10
